@@ -1,5 +1,7 @@
 # Tinkoff Lab. Лабораторная работа "Voice anti spoofing"
 
+![This is an image](mem.png)
+
 ### Задание
 
 Предлагается решить задачу бинарной классификации пола по записи голоса. В качестве тренировочного и тестового датасета используется [Common Voice](https://commonvoice.mozilla.org/ru/datasets). 
